@@ -1,4 +1,4 @@
-### Hi there, I'm Bernardo Rodrigues, a fan of electronics, robotics and software development 
+### Hi there, I'm Bernardo Rodrigues, a fan of electronics, robotics and software development. I'm a programmer who admires the backend, infrastructure, data structures, algorithms and programming logic.
 <div style="display: flex" align="center">
   <a href="https://github.com/Bernardo-Rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Rodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
