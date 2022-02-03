@@ -25,7 +25,7 @@ My name is Bernardo Rodrigues, I am a fan of electronics, robotics and software 
 
     
 <div> 
-### Contact me 🤝:
+  <h2>Contact me 🤝:</h2>
   
 <a href="https://instagram.com/bernardo__rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contatobernardolrodrigues06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
