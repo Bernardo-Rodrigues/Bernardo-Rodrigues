@@ -1,7 +1,7 @@
 ## Hi there! 👋
 ### About Me
 My name is Bernardo Rodrigues, I am a fan of electronics, robotics and software development. 
-- 👨🏽‍🦱 I'm a fullstack web developer who admires the backend, infrastructure, data structures, algorithms and programming logic.
+- 👨🏽‍🦱 I'm a fullstack web developer who admires architectures, data structures, algorithms, programming logic and creative solutions.
 - 🤖 I started programming with an arduino, playing with music and sensors when I was 14.
 - 📚 I learn easily, I think fast and I like to develop logic to solve problems.
 - 🌠 Fun fact: I love cosmology.
