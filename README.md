@@ -1,5 +1,6 @@
 ## Oi! 👋
-### About Me
+### Sobre mim
+
 Meu nome é Bernardo Rodrigues, sou fã de eletrônica, robótica e desenvolvimento de software.
 - 👨🏽‍🦱 Sou um desenvolvedor web fullstack que admira arquiteturas, estruturas de dados, algoritmos, lógica de programação e soluções criativas.
 - 🤖 Comecei a programar com um arduino, brincando com músicas e sensores quando tinha 14 anos.
